@@ -34,11 +34,11 @@
     }
 
     &--b-margin-small {
-        margin-bottom: .5em;
+        margin-bottom: .5rem;
     }
 
     &--b-margin-large {
-        margin-bottom: 1.6em;
+        margin-bottom: 1.6rem;
     }
 
     &--no-t-margin {
