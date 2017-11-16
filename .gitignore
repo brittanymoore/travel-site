@@ -1,3 +1,5 @@
+app/temp
+
 # Numerous always-ignore extensions
 *.diff
 *.err
